@@ -6,6 +6,7 @@ This is my proposal to resolve this kaggle competition: Spaceship Titanic. You c
 
 [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic)
 
+Evaluation will be by [accuracy](https://developers.google.com/machine-learning/crash-course/classification/accuracy)
 
 _Welcome to the year 2912, where your data science skills are needed to solve a cosmic mystery. We've received a transmission from four lightyears away and things aren't looking good._
 
