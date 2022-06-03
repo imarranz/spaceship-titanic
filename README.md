@@ -17,3 +17,12 @@ _While rounding Alpha Centauri en route to its first destination—the torrid 55
 _To help rescue crews and retrieve the lost passengers, you are challenged to predict which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system._
 
 _Help save them and change history!_
+
+## Configuration
+
+```
+conda create -n kagglespaceshiptitanicenv python=3.9 pandas numoy scipy pingouin scikit-learn matplotlib seaborn jupyterlab
+
+conda activate kagglespaceshiptitanicenv
+
+```
